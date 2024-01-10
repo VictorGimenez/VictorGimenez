@@ -53,6 +53,9 @@ My name is Victor. Welcome to my GitHub profile!
       <br>
     </ul>
   <br>
+  <li><a href="https://matlab.mathworks.com/"><img align="left" title="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /></li>
+  <br>
+  <li><a href="https://octave.org/"><img align="left" title="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /></li>
 </ul>
 
 <br>
@@ -62,7 +65,7 @@ My name is Victor. Welcome to my GitHub profile!
 <ul>
   <li><a href="https://www.gnu.org/software/bash/"><img align="left" title="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" /></li>
   <br>
-  <img align="left" title="VBA" width="40px" src="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications#/media/File:Microsoft_Visual_Basic_for_Applications_logo.svg" /></li>
+  <img align="left" title="VBA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" /></li>
 </ul>
 
 
