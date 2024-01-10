@@ -5,7 +5,7 @@ My name is Victor. Welcome to my GitHub profile!
 <ul>
     <li>Contact: victor.gimenez@ufabc.edu.br</li>
 </ul>
-<ul style="list-style-type:none;">
+<ul style="list-style: none;">
     <!--<li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspvictor.gimenez@gmx.es</li>-->
     <li>a</li>
 </ul>
