@@ -2,8 +2,6 @@
 
 My name is Victor. Welcome to my GitHub profile!
 
-<br><br>
-
 <a href="mailto:victor.gimenez@ufabc.edu.br"><img align="left" alt="Send a email 1" width="50px" src="https://toppng.com/uploads/preview/email-send-icon-11549825116mekvlqcvjt.png" />
 <a href="mailto:victor.gimenez@gmx.es"><img align="left" alt="Send a email 1" width="50px" src="https://toppng.com/uploads/preview/email-send-icon-11549825116mekvlqcvjt.png" />
 <a href="https://www.linkedin.com/in/victor-borghi-gimenez-04466666/"><img align="left" alt="Victor's LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
@@ -11,7 +9,7 @@ My name is Victor. Welcome to my GitHub profile!
 <a href="http://lattes.cnpq.br/4344720857265863"><img align="left" alt="Victor's Lattes" width="50px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png" />
 <a href="https://discord.gg/@VGimenez"><img align="left" alt="Victor's Discord" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Discord_logo_round.svg" />
 
-<br><br>
+<br><br><br><br>
 
 ### Web Frontend:
 <ul>
