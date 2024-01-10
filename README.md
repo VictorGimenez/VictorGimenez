@@ -13,21 +13,21 @@ My name is Victor. Welcome to my GitHub profile!
 
 ### Backend and Web Frameworks:
 <ul>
-  <li><a href="https://www.python.org/"><img align="left" title="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
+  <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
     <br>
     <ul>
-      <li><a href="https://flask.palletsprojects.com/en/3.0.x/"><img align="left" title="Flask" width="50px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" /></li>
+      <li><a href="https://flask.palletsprojects.com/en/3.0.x/"><img align="left" title="Flask" width="40px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" /></li>
     </ul>
   <br>
-  <li><a href="https://www.java.com/"><img align="left" title="Java" width="50px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" /></li>
+  <li><a href="https://www.java.com/"><img align="left" title="Java" width="40px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" /></li>
     <br>
     <ul>
-      <li><a href="https://spring.io/"><img align="left" title="Spring" width="50px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" /></li>
+      <li><a href="https://spring.io/"><img align="left" title="Spring" width="40px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" /></li>
     </ul>
   <br>
-  <li><a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></li>
+  <li><a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></li>
   <br>
-  <li><img align="left" title="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
+  <li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
 </ul>
 
 
