@@ -12,10 +12,10 @@ My name is Victor. Welcome to my GitHub profile!
 <br><br><br>
 
 ### Backend:
-<a href="https://www.python.org/"><img align="left" title="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<a href="https://www.java.com/"><img align="left" title="Java" width="50px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
-<a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
-<img align="left" title="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+<a href="https://www.python.org/"><img align="left" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<a href="https://www.java.com/"><img align="left" title="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
+<a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
+<img align="left" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 
 
 <!--
