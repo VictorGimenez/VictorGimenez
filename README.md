@@ -7,7 +7,7 @@ My name is Victor. Welcome to my GitHub profile!
 </ul>
 
 <a href="https://www.linkedin.com/in/victor-borghi-gimenez-04466666/">
-  <img align="left" alt="Victor's LinkedIn" width="10px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <img align="left" alt="Victor's LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 
 
 
