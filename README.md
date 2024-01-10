@@ -2,6 +2,8 @@
 
 My name is Victor. Welcome to my GitHub profile!
 
+<br><br>
+
 <a href="mailto:victor.gimenez@ufabc.edu.br"><img align="left" alt="Send a email 1" width="50px" src="https://toppng.com/uploads/preview/email-send-icon-11549825116mekvlqcvjt.png" />
 <a href="mailto:victor.gimenez@gmx.es"><img align="left" alt="Send a email 1" width="50px" src="https://toppng.com/uploads/preview/email-send-icon-11549825116mekvlqcvjt.png" />
 <a href="https://www.linkedin.com/in/victor-borghi-gimenez-04466666/"><img align="left" alt="Victor's LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
