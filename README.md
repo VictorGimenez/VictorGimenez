@@ -9,6 +9,9 @@ My name is Victor. Welcome to my GitHub profile!
 <a href="http://lattes.cnpq.br/4344720857265863"><img align="left" alt="Victor's Lattes" width="30px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png" />
 <a href="https://discord.gg/@VGimenez"><img align="left" alt="Victor's Discord" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Discord_logo_round.svg" />
 
+Backend:
+<a href="https://www.python.org/"><img align="left" alt="Send a email 1" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+
 <!--
 **VictorGimenez/VictorGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
