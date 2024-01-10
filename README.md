@@ -65,7 +65,7 @@ My name is Victor. Welcome to my GitHub profile!
 <ul>
   <li><a href="https://www.gnu.org/software/bash/"><img align="left" title="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" /></li>
   <br>
-  <img align="left" title="VBA" width="40px" src="https://www.svgrepo.com/show/374159/vba.svg" /></li>
+  <li><img align="left" title="VBA" width="40px" src="https://www.svgrepo.com/show/374159/vba.svg" /></li>
 </ul>
 
 
