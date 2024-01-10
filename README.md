@@ -12,7 +12,10 @@ My name is Victor. Welcome to my GitHub profile!
 <br><br><br>
 
 ### Backend:
-<a href="https://www.python.org/"><img align="left" alt="Send a email 1" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<a href="https://www.python.org/"><img align="left" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<a href="https://www.java.com/"><img align="left" title="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
+<a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="30px" src="https://e7.pngegg.com/pngimages/184/765/png-clipart-web-development-ruby-on-rails-programming-language-programmer-ruby-angle-logo.png" />
+
 
 <!--
 **VictorGimenez/VictorGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
