@@ -34,8 +34,7 @@ My name is Victor. Welcome to my GitHub profile!
       <li><a href="https://spring.io/"><img align="left" title="Spring" width="40px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" /></li>
     </ul>
   <!--<li><a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></li>-->
-  <br>
-  <li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
+  <!--<li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>-->
 </ul>
 
 <br><br>
