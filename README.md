@@ -16,7 +16,7 @@ My name is Victor. Welcome to my GitHub profile!
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
     <br>
     <ul>
-      <li><a href="https://flask.palletsprojects.com/en/3.0.x/"><img align="left" title="Flask" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" /></li>
+      <li><a href="https://flask.palletsprojects.com/en/3.0.x/"><img align="left" title="Flask" width="30px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" /></li>
     </ul>
   <br>
   <li><a href="https://www.java.com/"><img align="left" title="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" /></li>
