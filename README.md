@@ -30,6 +30,10 @@ My name is Victor. Welcome to my GitHub profile!
   <li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
 </ul>
 
+<br>
+<br>
+<br>
+
 ### AI:
 <ul>
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
