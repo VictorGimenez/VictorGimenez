@@ -35,13 +35,19 @@ My name is Victor. Welcome to my GitHub profile!
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
   <br>
     <ul>
+      <li><a href="https://numpy.org/"><img align="left" title="NumPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" /></li>
+      <br>
+      <li><a href="https://scikit-learn.org/stable/"><img align="left" title="ScikitLearn" width="40px" src="https://pt.wikipedia.org/wiki/Scikit-learn#/media/Ficheiro:Scikit_learn_logo_small.svg" /></li>
+      <br>
+      <li><a href="https://matplotlib.org/"><img align="left" title="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /></li>
+      <br>
       <li><a href="https://www.tensorflow.org/"><img align="left" title="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" /></li>
       <br>
       <li><a href="https://keras.io/"><img align="left" title="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" /></li>
       <br>
       <li><a href="http://deeplearning.net/software/theano/"><img align="left" title="Theano" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Theano_logo.svg" /></li>
       <br>
-      <li><a href="https://opencv.org/"><img align="left" title="Theano" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" /></li>
+      <li><a href="https://opencv.org/"><img align="left" title="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" /></li>
       <br>
     </ul>
   <br>
