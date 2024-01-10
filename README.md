@@ -9,7 +9,7 @@ My name is Victor. Welcome to my GitHub profile!
 <a href="http://lattes.cnpq.br/4344720857265863"><img align="left" alt="Victor's Lattes" width="50px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png" />
 <a href="https://discord.gg/@VGimenez"><img align="left" alt="Victor's Discord" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Discord_logo_round.svg" />
 
-<br><br><br>
+<br><br>
 
 ### Web Frontend:
 <ul>
@@ -17,6 +17,8 @@ My name is Victor. Welcome to my GitHub profile!
   <br>
   <li><a href="https://www.w3.org/TR/CSS/#css"><img align="left" title="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></li>
 </ul>
+
+<br><br>
 
 ### Web Backend:
 <ul>
@@ -36,8 +38,7 @@ My name is Victor. Welcome to my GitHub profile!
   <li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
 </ul>
 
-<br>
-<br>
+<br><br>
 
 ### AI:
 <ul>
@@ -65,8 +66,7 @@ My name is Victor. Welcome to my GitHub profile!
   <li><a href="https://octave.org/"><img align="left" title="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /></li>
 </ul>
 
-<br>
-<br>
+<br><br>
 
 ### Scripting Languages
 <ul>
@@ -75,10 +75,19 @@ My name is Victor. Welcome to my GitHub profile!
   <li><img align="left" title="VBA" width="40px" src="https://www.svgrepo.com/show/374159/vba.svg" /></li>
 </ul>
 
+<br><br>
 
+### Databases
+<ul>
+  <li><a href="https://www.mysql.com/"><img align="left" title="MySQL" width="40px" src="https://mg.wikipedia.org/wiki/MySQL#/media/Sary:MySQL.svg" /></li>
+</ul>
 
+<br><br>
 
-
+### Tools
+<ul>
+  <li><a href="https://www.latex-project.org/"><img align="left" title="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" /></li>
+</ul>
 
 <!--
 **VictorGimenez/VictorGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
