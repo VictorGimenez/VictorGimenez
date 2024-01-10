@@ -11,7 +11,7 @@ My name is Victor. Welcome to my GitHub profile!
 
 <br><br><br>
 
-### Backend and Web Frameworks:
+### Web Backend:
 <ul>
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
     <br>
@@ -28,6 +28,25 @@ My name is Victor. Welcome to my GitHub profile!
   <li><a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></li>
   <br>
   <li><img align="left" title="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
+</ul>
+
+### AI:
+<ul>
+  <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
+  <br>
+    <ul>
+      <li><a href="https://www.tensorflow.org/"><img align="left" title="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" /></li>
+      <br>
+      <li><a href="https://keras.io/"><img align="left" title="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" /></li>
+      <br>
+      <li><a href="http://deeplearning.net/software/theano/"><img align="left" title="Theano" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Theano_logo.svg" /></li>
+      <br>
+      <li><a href="https://opencv.org/"><img align="left" title="Theano" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" /></li>
+      <br>
+    </ul>
+  <br>
+  
+  
 </ul>
 
 
