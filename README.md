@@ -79,7 +79,7 @@ My name is Victor. Welcome to my GitHub profile!
 
 ### Databases
 <ul>
-  <li><a href="https://www.mysql.com/"><img align="left" title="MySQL" width="40px" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg" /></li>
+  <li><a href="https://www.mysql.com/"><img align="left" title="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" /></li>
 </ul>
 
 <br><br>
