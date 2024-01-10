@@ -17,9 +17,9 @@ My name is Victor. Welcome to my GitHub profile!
   <br>
   <li><a href="https://www.java.com/"><img align="left" title="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" /></li>
   <br>
-  <a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
+  <li><a href="https://www.ruby-lang.org/"><img align="left" title="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></li>
   <br>
-  <img align="left" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+  <li><img align="left" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></li>
 </ul>
 
 
