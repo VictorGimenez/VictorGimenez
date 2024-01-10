@@ -14,6 +14,7 @@ My name is Victor. Welcome to my GitHub profile!
 ### Backend:
 <ul>
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
+    <br>
     <ul>
       <li>A</li>
     </ul>
