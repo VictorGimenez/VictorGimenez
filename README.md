@@ -11,6 +11,13 @@ My name is Victor. Welcome to my GitHub profile!
 
 <br><br><br>
 
+### Web Frontend:
+<ul>
+  <li><a href="https://html.spec.whatwg.org/multipage/"><img align="left" title="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" /></li>
+  <br>
+  <li><a href="https://www.w3.org/TR/CSS/#css"><img align="left" title="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></li>
+</ul>
+
 ### Web Backend:
 <ul>
   <li><a href="https://www.python.org/"><img align="left" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></li>
