@@ -68,7 +68,7 @@ My name is Victor. Welcome to my GitHub profile!
 
 <br><br>
 
-### Scripting Languages
+### Scripting Languages:
 <ul>
   <li><a href="https://www.gnu.org/software/bash/"><img align="left" title="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" /></li>
   <br>
@@ -77,14 +77,14 @@ My name is Victor. Welcome to my GitHub profile!
 
 <br><br>
 
-### Databases
+### Databases:
 <ul>
   <li><a href="https://www.mysql.com/"><img align="left" title="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" /></li>
 </ul>
 
 <br><br>
 
-### Tools
+### Tools:
 <ul>
   <li><a href="https://www.latex-project.org/"><img align="left" title="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" /></li>
 </ul>
