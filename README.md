@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Victor. Welcome to my GitHub profile!
 
