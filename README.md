@@ -46,6 +46,8 @@ My name is Victor. Welcome to my GitHub profile!
     <ul>
       <li><a href="https://numpy.org/"><img align="left" title="NumPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" /></li>
       <br>
+      <li><a href="https://pandas.pydata.org/"><img align="left" title="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" /></li>
+      <br>
       <li><a href="https://scikit-learn.org/stable/"><img align="left" title="ScikitLearn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></li>
       <br>
       <li><a href="https://matplotlib.org/"><img align="left" title="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /></li>
