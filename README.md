@@ -65,12 +65,14 @@ My name is Victor. Welcome to my GitHub profile!
   <li><a href="https://matlab.mathworks.com/"><img align="left" title="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /></li>
   <br>
     <ul>
-      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="40px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <br>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="60px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
       <br>
     </ul>
   <li><a href="https://octave.org/"><img align="left" title="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /></li>
     <ul>
-      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="40px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <br>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="60px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
       <br>
     </ul>
 </ul>
