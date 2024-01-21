@@ -102,7 +102,7 @@ My name is Victor. Welcome to my GitHub profile!
     
 ### Favorite OS ( Open source is life!!! ❤️❤️ ):
 <ul>
-  My current one: <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"><img align="left" title="Pop_OS!" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg" /></li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"><img align="left" title="Pop_OS!" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg" /></li>
   <br>
   <li><a href="https://archlinux.org/"><img align="left" title="Arch Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" /></li>
   <br>
