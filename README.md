@@ -99,6 +99,7 @@ My name is Victor. Welcome to my GitHub profile!
 <ul>
   <li><a href="https://www.latex-project.org/"><img align="left" title="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" /></li>
 </ul>
+    
 ### Favorite OS ( Open source is life!!! ❤️❤️ ):
 <ul>
   My current one: <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"><img align="left" title="Pop_OS!" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg" /></li>
