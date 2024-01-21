@@ -66,13 +66,13 @@ My name is Victor. Welcome to my GitHub profile!
   <br>
     <ul>
       <br>
-      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="60px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="80px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
       <br>
     </ul>
   <li><a href="https://octave.org/"><img align="left" title="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /></li>
     <ul>
       <br>
-      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="60px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="80px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
       <br>
     </ul>
 </ul>
@@ -99,7 +99,6 @@ My name is Victor. Welcome to my GitHub profile!
 <ul>
   <li><a href="https://www.latex-project.org/"><img align="left" title="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" /></li>
 </ul>
-
 ### Favorite OS ( Open source is life!!! ❤️❤️ ):
 <ul>
   My current one: <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"><img align="left" title="Pop_OS!" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg" /></li>
