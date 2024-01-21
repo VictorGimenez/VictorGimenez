@@ -64,7 +64,15 @@ My name is Victor. Welcome to my GitHub profile!
   <br>
   <li><a href="https://matlab.mathworks.com/"><img align="left" title="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /></li>
   <br>
+    <ul>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="40px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <br>
+    </ul>
   <li><a href="https://octave.org/"><img align="left" title="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /></li>
+    <ul>
+      <li><a href="http://psychtoolbox.org/"><img align="left" title="Psychtoolbox" width="40px" src="https://www.kent.ac.uk/productivity-tools/images/psychtool.png" /></li>
+      <br>
+    </ul>
 </ul>
 
 <br><br>
@@ -88,6 +96,15 @@ My name is Victor. Welcome to my GitHub profile!
 ### Tools:
 <ul>
   <li><a href="https://www.latex-project.org/"><img align="left" title="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" /></li>
+</ul>
+
+### Favorite OS ( Open source is life!!! ❤️❤️ ):
+<ul>
+  My current one: <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"><img align="left" title="Pop_OS!" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg" /></li>
+  <br>
+  <li><a href="https://archlinux.org/"><img align="left" title="Arch Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" /></li>
+  <br>
+  <li><a href="https://linuxmint.com/"><img align="left" title="Neurolinux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_Linux_Mint_Logo.svg" /></li>
 </ul>
 
 <!--
